@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JDPSTest_Tests' do
+  pod 'JDPSTest', :path => '../'
+  
+  
+end
