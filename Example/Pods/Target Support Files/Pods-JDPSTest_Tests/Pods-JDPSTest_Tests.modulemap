@@ -1,0 +1,6 @@
+framework module Pods_JDPSTest_Tests {
+  umbrella header "Pods-JDPSTest_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

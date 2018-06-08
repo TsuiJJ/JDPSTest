@@ -1,0 +1,6 @@
+framework module JDPSTest {
+  umbrella header "JDPSTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
